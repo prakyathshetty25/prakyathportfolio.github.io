@@ -1,0 +1,29 @@
+.header{
+    color: white;
+    background-color: black;
+    text-align: justify;
+    padding: 1rem;
+
+}
+table, th, td {
+    border: 5px solid  black;
+    border-collapse: collapse;
+  }
+  .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #444;
+    color: #fff;
+    }
